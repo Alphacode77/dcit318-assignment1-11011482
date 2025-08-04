@@ -1,0 +1,15 @@
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.sourcelink.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeCalculator.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeCalculator.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeCalculator.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeCalculator.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeCalculator.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeCalculator.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeCalculator.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeCalculator.dll
