@@ -1,0 +1,15 @@
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.sourcelink.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment1-11011482\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
