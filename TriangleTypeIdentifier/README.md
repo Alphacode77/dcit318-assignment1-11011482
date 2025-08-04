@@ -1,6 +1,6 @@
 # Triangle Type Calculator
 
-A C# console application that determines the type of triangle based on the lengths of its three sides.
+A C# console application that determines the type of triangle based on the lengths of its three sides (in centimeters).
 
 ## Features
 
@@ -16,13 +16,13 @@ A C# console application that determines the type of triangle based on the lengt
 The program identifies three types of triangles:
 
 1. **Equilateral Triangle**: All three sides are equal
-   - Example: sides 5, 5, 5
+   - Example: sides 5 cm, 5 cm, 5 cm
 
 2. **Isosceles Triangle**: Two sides are equal
-   - Example: sides 5, 5, 3 or sides 3, 5, 5
+   - Example: sides 5 cm, 5 cm, 3 cm or sides 3 cm, 5 cm, 5 cm
 
 3. **Scalene Triangle**: No sides are equal
-   - Example: sides 3, 4, 5
+   - Example: sides 3 cm, 4 cm, 5 cm
 
 ## Triangle Validity
 
@@ -56,7 +56,7 @@ The program uses the **Triangle Inequality Theorem** to ensure the sides can for
 ## Usage
 
 1. **Start the Application**: Run the program using `dotnet run`
-2. **Enter Side Lengths**: Input three positive numbers for the triangle sides
+2. **Enter Side Lengths**: Input three positive numbers for the triangle sides (in centimeters)
 3. **View Results**: The program displays:
    - All three side lengths
    - Triangle type (Equilateral, Isosceles, or Scalene)
@@ -79,15 +79,14 @@ The program validates user input to ensure:
 
 ```
 Triangle Type Calculator
-=======================
-Enter the lengths of three sides to determine triangle type
+Enter the lengths of three sides to determine triangle type (in centimeters)
 Type 'exit' to quit the application
 
 Enter the length of side 1: 5
 Enter the length of side 2: 5
 Enter the length of side 3: 5
 
-=== Triangle Information ===
+Triangle Information
 Side 1: 5
 Side 2: 5
 Side 3: 5
@@ -100,7 +99,7 @@ Enter the length of side 1: 5
 Enter the length of side 2: 5
 Enter the length of side 3: 3
 
-=== Triangle Information ===
+Triangle Information
 Side 1: 5
 Side 2: 5
 Side 3: 3
@@ -108,7 +107,7 @@ Triangle Type: Isosceles
 Description: Two sides are equal
 
 Would you like to calculate another triangle? (y/n): n
-Thank you for using the Triangle Type Calculator. Goodbye!
+Thank you for using the Triangle Type Calculator. Enjoy your day!
 
 Press any key to exit...
 ```
@@ -129,7 +128,7 @@ Error: These three sides cannot form a valid triangle.
 The sum of any two sides must be greater than the third side.
 
 Enter the length of side 1: exit
-Thank you for using the Triangle Type Calculator. Goodbye!
+Thank you for using the Triangle Type Calculator. Enjoy your day!
 ```
 
 ## Project Structure
